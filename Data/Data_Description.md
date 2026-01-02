@@ -14,6 +14,19 @@ The dataset is designed to replicate real-world IT support scenarios. It demonst
 
 ---
 
+## Dataset Creation and Preparation
+The dataset was created and structured using Microsoft Excel.
+
+Excel was used to:
+- Generate ticket records  
+- Organize fields in a relational format  
+- Clean and format values  
+- Ensure consistency and usability for analysis  
+
+Once prepared in Excel, the dataset was imported into Power BI for modeling, DAX calculations, and dashboard visualization.
+
+---
+
 ## Dataset Contents
 Each record in the dataset represents a single support ticket.
 
@@ -33,7 +46,7 @@ Each record in the dataset represents a single support ticket.
 ---
 
 ## Data Source
-This dataset was manually created for learning and demonstration purposes.  
+This dataset was manually built in Excel for learning and demonstration purposes.  
 It is structured to mirror realistic corporate IT Helpdesk ticketing environments.
 
 ---
